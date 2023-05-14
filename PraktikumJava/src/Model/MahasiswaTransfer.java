@@ -13,7 +13,7 @@ public class MahasiswaTransfer extends Mahasiswa {
   
         public void inputKRS () {
             super.inputKRS();
-            System.out.println("AAA Input KRS Sebelumnya");
+            System.out.println("Input KRS Sebelumnya");
         }
 
 }
